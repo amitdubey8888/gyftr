@@ -1,0 +1,28 @@
+body {
+  font-family: "Open Sans", Arial, sans-serif;
+  line-height: 1.6;
+  font-size: 16px;
+  background: #fff;
+  margin: 0px;
+  padding: 0px;
+}
+.containers {
+  width: 90%;
+  margin: auto;
+}
+
+.row {
+  margin: 0px;
+  padding: 0px;
+}
+
+.col-12, .col-sm-6, .col-md-4, .col-lg-4 {
+  margin: 0px;
+  padding: 10px;
+}
+
+.error {
+  color: red;
+  font-weight: 300;
+  font-size: 13px;
+}

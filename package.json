@@ -1,0 +1,25 @@
+{
+  "name": "gyftr",
+  "version": "1.0.0",
+  "description": "Assignment for the job!",
+  "engines": {
+    "node": ">=12.0.0",
+    "npm": ">=6.0.0"
+  },
+  "main": "app.js",
+  "start": "node app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "App is working fine!"
+  },
+  "author": "Amit Dubey",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.1",
+    "mongoose": "^5.11.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
